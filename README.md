@@ -1,4 +1,4 @@
-# recriandoInterfaceDoOrkut
+# Recriando a Interface do Orkut
 
 Nesse exercicio da DIO recriamos a Interface do Orkut, utilizando somente HTML/CSS
 
